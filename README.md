@@ -37,7 +37,7 @@ Evaluating key performance indicators(KPIs) such as Occupancy rates , Average Da
 # Acknowledgement 
 Thanks to my mentors Dhaval Patel sir , Hemanand Vadivel and Team Codebasics for this amazing Resume Project Challenge.
 
-## Explore the report interact with the visualizations, aapply filters and drill down to gain deeper insights.
+## Explore the report interact with the visualizations, apply filters and drill down to gain deeper insights.
       
  
 
