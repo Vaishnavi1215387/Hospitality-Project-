@@ -1,6 +1,6 @@
 # Hospitality-Project-🏨
 ## AtliQ Grands Hospitality Management Report📄
-This repository contains a Power BI project aimed at analyzing and improving the market sahre and revenue of AtliQ Grands, a hospitality comapny experiencing losses, in the luxury and business hotel categories.  As a Data Analyst i developd this project to provide key insights into revenue, bookings and performance to inform strategic business decisions.
+This repository contains a Power BI project aimed at analyzing and improving the market share and revenue of AtliQ Grands, a hospitality company experiencing losses, in the luxury and business hotel categories.  As a Data Analyst i developed this project to provide key insights into revenue, bookings and performance to inform strategic business decisions.
 
 ## 📊Project Overview 
 The primary goal of this project was to provide a comprehensive view of AtliQ Grand's business performance to identify areas of improvement and help the company regain its market position. The Power BI project offers a data-driven approach to understand the challenges and opportunities within the hospitality sector.
@@ -8,14 +8,14 @@ The primary goal of this project was to provide a comprehensive view of AtliQ Gr
 # Key Insights Include : 
 Based on our analysis, three key areas for the hotel's continued success are:
 
-🔸Pricing Strategies: Implement dynamic pricing models in perticular cities where there is a good occupancy rate and ratings to optimize revenue and increase competitiveness.
+🔸Pricing Strategies: Implement dynamic pricing models in particular cities where there is a good occupancy rate and ratings to optimize revenue and increase competitiveness.
 
 🔸Customer Service Excellence: Focus on enhancing customer service in underperforming hotels and which has lower rating  to improve guest ratings and drive higher occupancy rates.
 
-🔸Marketing and Promotions:  Develop and execute targeted marketing and promotional campaigns in cretain bookings platforms to attract new guests, increase bookings and brand visibility.
+🔸Marketing and Promotions:  Develop and execute targeted marketing and promotional campaigns in certain bookings platforms to attract new guests, increase bookings and brand visibility.
 
-# 🛠️Tech Stach & Tools 
-1. Power BI : For Data Modeling, Visualization and Report Creatiom.
+# 🛠️Tech Stack & Tools 
+1. Power BI : For Data Modeling, Visualization and Report Creation.
 
 2. Power Query : For Data Cleansing and Transformation.
 
@@ -26,8 +26,8 @@ Based on our analysis, three key areas for the hotel's continued success are:
 # 🚀 Features Of The Report 
 ## Revenue Insights:
 Breaking down revenue by various dimensions like city, room type and month. Also shows up key performance indicators(KPIs) like total revenue, bookings and revpar , along with trend and key metrics to pinpoint underperforming segments.
-## Bookings Inaights:
-Analyzing bookings trends, canellation rates, average ratings , bookings% by room type and week wise key metrics to optimize pricing and marketing strategies.
+## Bookings Insights:
+Analyzing bookings trends, cancellation rates, average ratings , bookings% by room type and week wise key metrics to optimize pricing and marketing strategies.
 ## Performance Insights:
 Evaluating key performance indicators(KPIs) such as Occupancy rates , Average Daily Rates(ADR) and Revenue Per Available Rooms(RevPAR) to assess overall health of the business.
 
