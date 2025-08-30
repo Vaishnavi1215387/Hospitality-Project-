@@ -25,7 +25,7 @@ Based on our analysis, three key areas for the hotel's continued success are:
 
 # 🚀 Features Of The Report 
 ## Revenue Insights:
-Breaking down revenue by various dimensions like city, room type and month. Also shows up key performance indicators(KPIs) like total revenue, bookings and revpar , along with trend and key metrics to pinpoint underperforming segments.
+Breaking down revenue by various dimensions like city, room type and month. Also shows up key performance indicators(KPIs) like total revenue, bookings and RevPAR , along with trend and key metrics to pinpoint underperforming segments.
 ## Bookings Insights:
 Analyzing bookings trends, cancellation rates, average ratings , bookings% by room type and week wise key metrics to optimize pricing and marketing strategies.
 ## Performance Insights:
